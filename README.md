@@ -2,7 +2,6 @@
 [![MasterHead](https://nearlearn.com/public/images/data-science-iceland.jpg)
 <h1>
 <h1 align="center">Hi 👋, I'm Pritam Sangle</h1>
- Hi there,<p>I'm Pritam Sangle 👋</p>
 </h1>
 
 <h2>
