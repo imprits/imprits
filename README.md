@@ -129,7 +129,3 @@ alt="pritam sangle | LinkedIn" width="21px"/></a>
 ## 📈 GitHub Stats 
 
 ![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=imprits&show_icons=true&theme=dracula) ![Pritam's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=imprits&theme=dracula) 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=imprits)
-[![Github](https://img.shields.io/github/followers/imprits?label=Follow&style=social)](https://github.com/imprits)
-
