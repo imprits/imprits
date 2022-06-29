@@ -17,6 +17,8 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=imprits)
 [![Github](https://img.shields.io/github/followers/imprits?label=Follow&style=social)](https://github.com/imprits)
 
+<h2> About Me </h2>
+
 - 🔭 I’m currently working on - **Something Cool**
 
 - 🌱 I’m currently learning - **Machine Learning**
@@ -32,17 +34,19 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 ### 🤝 Connect with me:
 
 <a href=""><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="pritam sangle | LinkedIn" width="21px"/></a>
+alt="pritam sangle | LinkedIn" width="25px"/></a>
 
-<a href=""><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.r.i.t.s__ | Instagram" width="21px"/></a>
+<a href=""><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.r.i.t.s__ | Instagram" width="25px"/></a>
 
-<a href=""><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@urstrulyprits | Twitter" width="21px"/></a>
+<a href=""><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@urstrulyprits | Twitter" width="25px"/></a>
 
 </br>
 
-### My Skills 
+## My Skills 
+
 
 - **Programming Languages**
+
 <table>
 <tbody>
  <tr>
