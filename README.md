@@ -15,6 +15,9 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=imprits)
+[![Github](https://img.shields.io/github/followers/imprits?label=Follow&style=social)](https://github.com/imprits)
+
 - 🔭 I’m currently working on - **Something Cool**
 
 - 🌱 I’m currently learning - **Machine Learning**
@@ -24,12 +27,6 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 - 📫 How to reach me - **pritamsangle30@gmail.com**
 
 - ⚡ Fun fact - **Existence wants you to be you.**
-
-
-
-
-
-
 
 
 
@@ -125,6 +122,9 @@ alt="pritam sangle | LinkedIn" width="21px"/></a>
 
 </tbody>
 </table>
+
+
+[![Pritam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imprits&theme=dracula)](https://git.io/imprits)
 
 
 ## 📈 GitHub Stats 
