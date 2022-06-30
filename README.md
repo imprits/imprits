@@ -31,17 +31,6 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 
 
 
-### 🤝 Connect with me:
-
-<a href=""><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="pritam sangle | LinkedIn" width="25px"/></a>
-
-<a href=""><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.r.i.t.s__ | Instagram" width="25px"/></a>
-
-<a href=""><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@urstrulyprits | Twitter" width="25px"/></a>
-
-</br>
-
 ## My Skills 
 
 
