@@ -117,9 +117,9 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 </table>
 
 
-[![Pritam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imprits&theme=dracula)](https://git.io/imprits)
+[![Pritam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imprits&theme=react-dark)](https://git.io/imprits)
 
 
 ## 📈 GitHub Stats 
 
-![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=imprits&show_icons=true&theme=dracula) ![Pritam's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=imprits&theme=dracula) 
+![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=imprits&show_icons=true&theme=flag-india) ![Pritam's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=imprits&theme=flag-india) 
