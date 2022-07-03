@@ -24,27 +24,23 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 
 - 💬 Ask me about - **All questions are welcome but not all questions will be answered by me.**
 
-- 📫 How to reach me - **pritamsangle30@gmail.com**
-
--	💙 LinkedIn URL: https://www.linkedin.com/in/prits-3012/
-
-- ⚡ Fun fact - **Existence wants you to be you.**
-
-
-<table width="100" align='center'>
-<tr>
-    <td align='center' width="60">
-        <a href="https://twitter.com/urstrulyPrits"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+- 📫 How to reach me :
+<table>
+<tbody>
+ <tr>
+    <td align="left" width="60">
+        <a href="https://twitter.com/urstrulyPrits"><img height=60px src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png"></a>
     </td>
-    <td align='center' width="60">
-        <a href="https://www.instagram.com/p.r.i.t.s__/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    <td align="left" width="60">
+        <a href="https://www.instagram.com/p.r.i.t.s__/"><img height=60px src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/prits-3012/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    <td align="left" width="60">
+        <a href="https://www.linkedin.com/in/prits-3012/"><img height=60px src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png"></a>
     </td>
 </tr>
-</table>
 
+</tbody>
+</table>
 
 
 
