@@ -42,6 +42,9 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 </tbody>
 </table>
 
+- ⚡ Fun fact - **Existence wants you to be you.**
+
+
 
 
 ## My Skills 
