@@ -42,16 +42,16 @@ I seek new challenges and try to think out-of-the-box while looking for creative
  <tr>
    
 <td align="center" width="50%">
-<img height=60px  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
+<img height=60px  src="https://github.com/imprits/Others/blob/main/c-original.svg">  
 </td>  
    
 <td align="center" width="50%">
-<img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
+<img height=60px src="https://github.com/imprits/Others/blob/main/cplusplus-original.svg"> 
 </td>
    
   <tr> 
 <td align="center" width="50%">
-<img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<img height=60px src="https://github.com/imprits/Others/blob/main/python-original.svg"> 
 </td>
 
 </tr>
@@ -65,26 +65,26 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 <tbody>
  <tr>
 <td align="center" width="25%">
-<img height=60px src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
+<img height=60px src="https://github.com/imprits/Others/blob/main/pandas-original.svg">
 </td>
 
 <td align="center" width="25%">
-<img height=70px src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"> 
+<img height=70px src="https://github.com/imprits/Others/blob/main/tensorflow%20.svg"> 
 </td>
 
 <td align="center" width="25%">
-<img height=60px src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"> 
+<img height=60px src="https://github.com/imprits/Others/blob/main/seaborn%20.svg"> 
 </td>
 
 <td align="center" width="25%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"> 
+<img height=60px src="https://github.com/imprits/Others/blob/main/Scikit_learn_logo_small.svg"> 
 </td>
      
 </tr>
 
  <tr>
 <td align="center" width="25%">
-<img height=60px src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"> 
+<img height=60px src="https://github.com/imprits/Others/blob/main/opencv-icon.svg"> 
 </td>
 
 </tr>
@@ -98,16 +98,16 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"> 
+<img height=60px src="https://github.com/imprits/Others/blob/main/sqlite-icon.svg"> 
 </td>
 
 <td align="center" width="50%">
-<img height=70px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+<img height=70px src="https://github.com/imprits/Others/blob/main/mysql-original-wordmark.svg"> 
 </td>
  
    <tr>
 <td align="center" width="50%">
-<img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
+<img height=60px src="https://github.com/imprits/Others/blob/main/oracle-original.svg"> 
 </td>
 
 
