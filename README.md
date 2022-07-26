@@ -13,7 +13,6 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=imprits.id&left_color=green&right_color=red)
 [![Github](https://img.shields.io/github/followers/imprits?label=Follow&style=social)](https://github.com/imprits)
 
 <h2> About Me </h2>
