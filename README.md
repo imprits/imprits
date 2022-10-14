@@ -4,7 +4,7 @@
 </h1>
 
 <h2>
-I'm a Data Science Enthusiast from India
+ Data Science Enthusiast
 </h2> 
 
 Technophile, Inquisitive, Heedful.
