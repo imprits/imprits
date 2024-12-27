@@ -19,7 +19,7 @@ I seek new challenges and try to think out-of-the-box while looking for creative
 
 - 📫 How to reach me - **pritamsangle30@gmail.com**
 
--	💙 LinkedIn URL: https://www.linkedin.com/in/prits-3012/
+-	💙 LinkedIn URL: **https://www.linkedin.com/in/prits-3012/**
 
 - ⚡ Fun fact - **I'm an avid bike lover**
 
